@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Ankur Agnihotri
 
-I'm Ankur Agnihotri — currently learning and exploring **Data Science**.  
+Currently learning and exploring **Data Science**.  
 I love **problem solving** and contributing to **open-source**.  
 I have a keen interest in **Machine Learning**, **Data Science**, and **Product Analytics**.  
 Always curious to learn and build something impactful. 🚀
