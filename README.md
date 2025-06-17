@@ -20,8 +20,8 @@ Always curious to learn and build something impactful. 🚀
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankur-agnihotri-2a0326224/)
-- 🐦 [Twitter](https://x.com/AnkurAg13743382) *(Add your handle)*
-- 📧 ankuragnihotri500@email.com *(Replace with your real email)*
+- 🐦 [Twitter](https://x.com/AnkurAg13743382) 
+- 📧 ankuragnihotri500@email.com 
 
 ---
 
